@@ -85,7 +85,7 @@ def run_crew_with_logging(topic):
         raise
 
 # 🚀 Main Execution
-topic = "AGILE IS DEAD IN THE ENTERPRISE"
+topic = "Chatbots are so 2024 - 2025 is about leveraging GenAI agents"
 try:
     result = run_crew_with_logging(topic)
     logger.info("🏁 Result obtained successfully")
