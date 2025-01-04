@@ -80,8 +80,3 @@ The script uses Python's `logging` module to capture information about the CrewA
 - Any errors that occur during execution
 
 Logs are displayed in the console with timestamps and log levels.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7454916/2d24dd03-c777-4201-91ec-699ffe0b9adb/l2_research_write_article.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7454916/54dc75cc-fb3c-4664-9eb9-1c3e8246b0ca/file.env.example
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7454916/912f4efb-e761-47f7-a68b-894f1da4906e/requirements.txt
