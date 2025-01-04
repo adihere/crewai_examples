@@ -1,3 +1,5 @@
+#Sample outpu from the multi-agent app
+
 # Embracing the Future of Customer Service: Leveraging GenAI Agents in 2024 - 2025
 
 Are you prepared for the next evolution in customer service? The era of chatbots is transitioning towards the utilization of GenAI agents, and the impact on businesses, particularly large enterprises, is immense. As a content planner with a focus on content strategy, my research has delved deep into the rising trend of GenAI agents and how they are reshaping customer interactions through advanced artificial intelligence technology.
