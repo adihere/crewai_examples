@@ -57,6 +57,8 @@ The script will generate a blog post on the topic "AGILE IS DEAD IN THE ENTERPRI
 - `requirements.txt`: List of Python package dependencies.
 - `file.env.example`: Template for the environment variables file.
 
+![image](https://github.com/user-attachments/assets/d3a20ac7-00dd-4a21-afce-a0260171e8fd)
+
 ## Agents and Tasks
 
 The project uses three AI agents:
