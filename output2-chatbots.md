@@ -1,4 +1,4 @@
-#Sample outpu from the multi-agent app
+#Sample outpur from the multi-agent app
 
 # Embracing the Future of Customer Service: Leveraging GenAI Agents in 2024 - 2025
 
