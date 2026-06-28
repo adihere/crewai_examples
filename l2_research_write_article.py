@@ -12,7 +12,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 load_dotenv()
-os.environ["OPENAI_MODEL_NAME"] = 'gpt-3.5-turbo'
+os.environ["OPENAI_MODEL_NAME"] = 'gpt-5.4-nano'
 
 # 👥 Agent Definitions
 
